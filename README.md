@@ -8,3 +8,5 @@
 Built With: • HTML • CSS • JavaScript • Bootstrap • PHP
 
 Authors: • Amina Vejselović • Nejra Drakovac • Semir Beganović
+
+Before testing add file demoBase to your Sql databases.
