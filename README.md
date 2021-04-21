@@ -1,8 +1,7 @@
 # FlighTracker
  Fakultet za saobraćaj i komunikacije, smjer Kompjuterske i informacijske tehnologije
  
- 
- flightracker.000webhostapp.com/index.html
+
  
  https://astrearhea.github.io/FlighTracker/
  
